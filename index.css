@@ -3,3 +3,49 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+header{
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+}
+
+nav{
+    background-color: orangered;
+    width: 50%;
+    display: flex;
+    justify-content: end;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 20px;
+}
+
+main{
+    background-color: white;
+    padding: 20px;
+    width: 70%;
+}
+
+aside{
+    background-color: orangered;
+    padding: 20px;
+    width: 30%;   
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    width: 100%;
+}
