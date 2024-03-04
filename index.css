@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+.contendor{
+margin: auto;
+margin-top: 20px;
+max-width: 1000px;
+display: flex;
+flex-wrap: wrap;
+}
 
 header{
     background-color: black;
