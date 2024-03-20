@@ -71,7 +71,7 @@ footer{
 
 .encabezado {
     color: aqua;
-    background-color: rgba(51, 51, 51, 255);    
+    background-color: black;    
     width: 100%;
     margin-top: 10px;
     display: flex;
